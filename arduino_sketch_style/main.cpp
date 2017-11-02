@@ -11,15 +11,13 @@ Created using QtCreator
 #include <Arduino.h>
 #endif
 
-int main()
-{
+int main() {
     // Initialize Arduino Librairies
     init();
 
     setup();
 
-    while (1)
-    {
+    while (1){
         loop();
     }
 

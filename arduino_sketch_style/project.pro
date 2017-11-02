@@ -28,9 +28,9 @@ INCLUDEPATH = %ARDUINO_DIR%/hardware/arduino/cores/arduino \
 %ARDUINO_DIR%/libraries/Temboo \
 %ARDUINO_DIR%/libraries/TFT \
 %ARDUINO_DIR%/libraries/WiFi \
-%ARDUINO_DIR%/hardware/arduino/avr/libraries/EEPROM \
-%ARDUINO_DIR%/hardware/arduino/avr/libraries/SoftwareSerial \
-%ARDUINO_DIR%/hardware/arduino/avr/libraries/SPI \
-%ARDUINO_DIR%/hardware/arduino/avr/libraries/Wire
+%ARDUINO_DIR%/libraries/EEPROM \
+%ARDUINO_DIR%/libraries/SoftwareSerial \
+%ARDUINO_DIR%/libraries/SPI \
+%ARDUINO_DIR%/libraries/Wire
 
 
